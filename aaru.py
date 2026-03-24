@@ -42,6 +42,24 @@ else :
 
 
 
+a = 7686
+s=  686
+if a<s:
+    print (" YES ")
+    if a>s:
+        print ( "  girl ")
+        if a==s:
+            print ( " Mom ")
+        else:
+            print ( " dad ")
+    else :
+        print ( "boy ")
+else :
+    print  ( " NO ")
+    
+
+
+
 
 
 
