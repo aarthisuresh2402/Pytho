@@ -1,7 +1,7 @@
 
 
 
-# IF condition
+'''# IF condition
 
 a= 725
 n= 25
@@ -55,27 +55,7 @@ if a<s:
     else :
         print ( "boy ")
 else :
-    print  ( " NO ")
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    print  ( " NO ")'''
 
 
 '''# IF-ELSE STATEMENT
@@ -103,6 +83,80 @@ if a==n:
     print (" SHE IS A BEAUTIFUL GIRL ")
 else:
     print (" SHE IS UGLY ")'''
+
+
+# Program to check vowel
+
+ch = input(" Enter a Character :")
+if ch in ['a' , 'e' , 'i' , 'o' , 'u']:
+    print (" It is a VOWEL ")
+else:
+    print ( " It is not a VOWEL")
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
     
